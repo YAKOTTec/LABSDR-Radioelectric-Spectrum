@@ -1,4 +1,4 @@
-[**LABSDR: Radioelectric Spectrum.**](https://youtube.com/playlist?list=PLZIQVCPY0T5a_8mnVmv2kQY97stt3ankx/)
+[**LABSDR: Radioelectric Spectrum.**](https://youtube.com/playlist?list=PLZIQVCPY0T5a_8mnVmv2kQY97stt3ankx)
 
 *GNU Radio Companion v3.7*
 
@@ -6,7 +6,7 @@
 
 ...
 
-[**LABSDR: Espectro Radioeléctrico.**](https://youtube.com/playlist?list=PLZIQVCPY0T5a_8mnVmv2kQY97stt3ankx/)
+[**LABSDR: Espectro Radioeléctrico.**](https://youtube.com/playlist?list=PLZIQVCPY0T5a_8mnVmv2kQY97stt3ankx)
 
 *GNU Radio Companion v3.7*
 
